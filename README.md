@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yokesh2584&theme=dark_lover" alt="yokesh2584" /></a> </p>
 
-- 🔭 I’m currently working on freelancing project **A matrimonial site**
-- 🌱 I’m currently learning **React**
+<!-- - 🔭 I’m currently working on freelancing project **A matrimonial site**
+- 🌱 I’m currently learning **React** -->
 - 💬 Ask me about **JavaScript**
 - 📫 How to reach me **yokeshananthan@gmail.com**
-- 👨‍💻 All of my projects are available at **https://yokeshananthan-portfolio.vercel.app/**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1ZbVhQtrLuhh7cdgFtt3m3GmsCgo5u1Ha/view?usp=drivesdk**
+<!-- - 👨‍💻 All of my projects are available at **https://yokeshananthan-portfolio.vercel.app/**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1ZbVhQtrLuhh7cdgFtt3m3GmsCgo5u1Ha/view?usp=drivesdk** -->
 
 <div> <a href="https://twitter.com/yokeshananthan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Yokesh Ananthan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
